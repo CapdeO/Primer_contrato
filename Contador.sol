@@ -1,5 +1,7 @@
 pragma solidity ^0.8.15;
 
+// SPDX-License-Identifier: AFL-1.1
+
 contract Contador {
 
     uint256 count;
